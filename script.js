@@ -24,7 +24,7 @@ $(function()
 		artist: "Rareblin",
 		name: "defeat erect",
 		url: "nhac/Defeat ERECT Remix - Vs Impostor OST_nAHS8m_k6GU.mp3",
-		picture: "anh/defeate.jpg"
+		picture: "https://github.com/hoaanhmine/hoaanhmine.github.io/blob/main/anh/defeate.jpg"
 	}];
 	
 	function shuffle(a) {
