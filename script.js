@@ -24,7 +24,7 @@ $(function()
 		artist: "Rareblin",
 		name: "defeat erect",
 		url: "nhac/Defeat ERECT Remix - Vs Impostor OST_nAHS8m_k6GU.mp3",
-		picture: "https://i1.sndcdn.com/artworks-Si2e3RP7RiTFsKye-zZ655g-t500x500.jpg"
+		picture: "anh/defeate"
 	}];
 	
 	function shuffle(a) {
