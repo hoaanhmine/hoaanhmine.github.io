@@ -25,6 +25,12 @@ $(function()
 		name: "defeat erect",
 		url: "nhac/Defeat ERECT Remix - Vs Impostor OST_nAHS8m_k6GU.mp3",
 		picture: "https://github.com/hoaanhmine/hoaanhmine.github.io/blob/main/anh/defeate.jpg"
+	},
+{
+		artist: "Vruzzen",
+		name: "Finale",
+		url: "nhac/Finale - Vs. Impostor V4 OST (Vocals by Punkett)_-U_n5DJGG9s",
+		picture: "https://i.ytimg.com/vi/-U_n5DJGG9s/maxresdefault.jpg"
 	}];
 	
 	function shuffle(a) {
