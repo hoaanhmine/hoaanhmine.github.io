@@ -31,7 +31,17 @@ $(function()
 		name: "Finale",
 		url: "nhac/Finale - Vs. Impostor V4 OST (Vocals by Punkett)_-U_n5DJGG9s.mp3",
 		picture: "https://i.ytimg.com/vi/-U_n5DJGG9s/maxresdefault.jpg"
-	}];
+	},
+		    {
+		artist: "Surga Moon",
+		name: "SACRIFICE",
+		url: "muic/SACRIFICE.mp3",
+		picture: "https://i.ytimg.com/vi/-U_n5DJGG9s/maxresdefault.jpg"
+	},
+		    
+		    
+		    
+		    ];
 	
 	function shuffle(a) {
 		var j, x, i;
