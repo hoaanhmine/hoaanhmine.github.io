@@ -36,8 +36,8 @@ $(function()
 		artist: "Surga Moon",
 		name: "SACRIFICE",
 		url: "music/SACRIFICE.mp3",
-		picture: "https://www.bing.com/images/search?view=detailV2&ccid=ONbsfwzh&id=C0A63E4706F0451E5928ECCDB4D4AE81F8FEBCD4&thid=OIP.ONbsfwzhG3Iz2vYGyc7rTAAAAA&mediaurl=https%3a%2f%2fimg.kbhgames.com%2f2023%2f07%2fFNF-One-Shot-Mania-Sacrifice.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.38d6ec7f0ce11b7233daf606c9ceeb4c%3frik%3d1Lz%252b%252bIGu1LTN7A%26pid%3dImgRaw%26r%3d0&exph=180&expw=180&q=sacrifice+fnf&simid=607993943218672034&FORM=IRPRST&ck=5574BC83233BC5FA465E5F94E62A95E3&selectedIndex=4"
-	},
+		picture: ""
+	}
 		    
 		    
 		    
